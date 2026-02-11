@@ -1,0 +1,7 @@
+name = "RTHybrid Burst Analysis"
+kind = "rthybrid_burst_analysis"
+version = "0.1.0"
+description = "Tracks membrane potential min/max and burst duration"
+library = "librthybrid_burst_analysis.so"
+
+api_version = 2
